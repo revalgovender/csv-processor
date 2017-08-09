@@ -7,6 +7,7 @@ I created this project to demonstrate the following skills:
 2. Code well documented, ready for automatic doc generation.
 3. Use of PHPUnit.
 4. Basic CSV file processing.
+5. PHP7.0 standard code.
 
 ## Setup
 
